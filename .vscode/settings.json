@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "cmath": "cpp",
+        "iterator": "cpp",
+        "random": "cpp"
+    }
+}
